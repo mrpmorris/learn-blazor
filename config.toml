@@ -14,7 +14,7 @@ home = [ "HTML", "RSS", "JSON"]
   description = "Website with learning resources regarding the Blazor platform"
   disableLanguageSwitchingButton = true
   themeVariant = "blue"
-  disclaimer = "The *learn-blazor* site had been created at a point in time when there was no Blazor documentation at all available. Since then, the framework has grown and matured a lot. Documentation [is now available on docs.microsoft.com](https://docs.microsoft.com/en-us/aspnet/core/blazor/). Therefore, much of the content of *learn-blazor* isn't necessary anymore and parts of it are outdated. I hope the site was useful to early adopters. Open [Microsoft's documentation of Blazor...](https://docs.microsoft.com/en-us/aspnet/core/blazor/)"
+  disclaimer = "The *learn-blazor* site was created at a point in time when there was no Blazor documentation available at all. Since then, the framework has grown and matured a lot. Documentation [is now available on docs.microsoft.com](https://docs.microsoft.com/en-us/aspnet/core/blazor/). Therefore, much of the content of *learn-blazor* isn't necessary anymore and parts of it are outdated. I hope the site was useful to early adopters. Open [Microsoft's documentation of Blazor](https://docs.microsoft.com/en-us/aspnet/core/blazor/)" or, alternatively, visit [Blazor-University.com](https://blazor-university.com)
 
 [[menu.shortcuts]] 
 name = "<i class='fa fa-github'></i> Blazor on GitHub"
